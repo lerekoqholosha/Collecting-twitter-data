@@ -20,7 +20,8 @@ Collecting data from twitter with python
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| `access_token` | `string` | **Required**. Your API key |
+|`consumer_key`|`string`|**Required**. Your API Key|
 
 #### Get item
 
@@ -64,5 +65,6 @@ For support, email lerekoqholosha9@gmail.com or join our Linkedin Community.
 
 ## 🚀 About Me
 I'm a developer,Data Scientist and Account Manager...
+
 
 
